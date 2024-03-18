@@ -1,1 +1,1 @@
-const foo = "nighttime"
+const foo = "nighttime flavors"
