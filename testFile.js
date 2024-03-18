@@ -1,1 +1,1 @@
-const foo = "chalk"
+const foo = "chalky"
